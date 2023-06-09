@@ -1,6 +1,9 @@
 h1{
- color: red; background-color: beige;
+ color: rgb(25, 171, 27); background-color: beige;
 }
 h2{
-    color: green; 
+    color: rgb(31, 105, 195); 
+}
+h3{
+    color:rgb(60, 75, 65);
 }
